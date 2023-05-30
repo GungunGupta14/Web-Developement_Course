@@ -1,6 +1,7 @@
 {
   "name": "todoapp",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,6 +15,5 @@
     "express": "^4.18.2",
     "mongoose": "^7.0.4",
     "nodemon": "^2.0.22"
-  },
-  "description": ""
+  }
 }
